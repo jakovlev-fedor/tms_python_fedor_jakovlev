@@ -15,7 +15,7 @@ print('#01---------------')
 
 print('b' > 'a' or 'one' != 'two')
 print(3 <= 3 or 8 < 80)
-print('abc' == 'abc' and 100 >= 99)
+print('abc' == 'abc' or 100 >= 99)
 
 print()
 
