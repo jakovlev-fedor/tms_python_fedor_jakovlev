@@ -69,13 +69,13 @@ print()
 
 print('#04---------------')
 
-print()
-print()
-print()
+print(9 >= 0.999)
+print(9000 >= 9000)
+print(999 >= 9)
 
-print()
-print()
-print()
+print(999 >= 9000)
+print(90 >= 900)
+print(9 >= 999)
 
 print()
 
@@ -88,13 +88,13 @@ print()
 
 print('#05---------------')
 
-print()
-print()
-print()
+print(999 <= 9000)
+print(90 <= 900)
+print(9 <= 999)
 
-print()
-print()
-print()
+print(9 <= 0.999)
+print(9000 <= 900)
+print(999 <= 9)
 
 print()
 
